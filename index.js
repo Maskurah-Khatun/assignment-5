@@ -1,5 +1,5 @@
 
-// Blog Button
+// This is Blog Button
 
 document.getElementById("blog-btn").addEventListener("click", function (event) {
     event.preventDefault();
@@ -9,7 +9,7 @@ document.getElementById("blog-btn").addEventListener("click", function (event) {
 
 
 
-// Donation Button and History Button
+//This is The Donation Button and History Button
 
 document.getElementById("donation-btn").addEventListener("click", function (event) {
     event.preventDefault();
@@ -83,7 +83,7 @@ document.getElementById('quota-input').addEventListener('keyup', function (event
 
 
 
-// Noakhali Donate
+// Here Noakhali Donate
 document.getElementById("noakhali-donate-input").addEventListener("click", function (event) {
     event.preventDefault();
     let noakhaliInput = document.getElementById("noakhali-input").value;
