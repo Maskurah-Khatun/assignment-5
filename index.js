@@ -103,7 +103,7 @@ document.getElementById("noakhali-donate-input").addEventListener("click", funct
         document.getElementById("noakhali-input").value = "";
 
 
-        // -------------------------------------------------------------------------------------
+
         // Create Section for History
         let historySection = document.getElementById('history-section');
         
@@ -160,7 +160,9 @@ document.getElementById("feni-donate-input").addEventListener("click", function 
 
 
 
-        // -------------------------------------------------------------------------------------
+       
+
+
         // Create Section for History
         let historySection = document.getElementById('history-section');
 
@@ -212,7 +214,7 @@ document.getElementById("quota-donate-input").addEventListener("click", function
 
 
 
-        // -------------------------------------------------------------------------------------
+        
         // Create Section for History
         let historySection = document.getElementById('history-section');
 
