@@ -141,7 +141,7 @@ document.getElementById("noakhali-donate-input").addEventListener("click", funct
 
 
 
-// Feni Donate
+// This is the Feni Donate part
 document.getElementById("feni-donate-input").addEventListener("click", function (event) {
     event.preventDefault();
     let feniInput = document.getElementById("feni-input").value;
@@ -163,7 +163,7 @@ document.getElementById("feni-donate-input").addEventListener("click", function 
        
 
 
-        // Create Section for History
+        // Create Section for History....
         let historySection = document.getElementById('history-section');
 
         let section = document.createElement('section');
